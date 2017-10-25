@@ -1,6 +1,6 @@
 var i = 1;
 var j = -1;
-var textList = ['Programmer.Developer.Hacker.Learner'];
+var textList = ['Biomedical Engineer.Jazz Saxophonist.Developer.Programmer'];
 var a = textList[0];
 var len = textList.length;
 var num = 0;
